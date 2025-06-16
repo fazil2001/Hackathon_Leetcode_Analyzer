@@ -1,0 +1,6 @@
+Feedback Suggestions:
+
+- Spread out your problem-solving over multiple days to improve retention.
+- Increase variety in problem topics to build all-round mastery.
+- Focus more on underrepresented topics like Graphs, Trees, and DP.
+- Try tackling problems of varying difficulty levels — not just Easy or Medium.

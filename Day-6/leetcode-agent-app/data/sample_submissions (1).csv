@@ -1,0 +1,31 @@
+date,problem_name,difficulty,topic
+2024-06-01,Two Sum,Easy,Array
+2024-06-01,Valid Parentheses,Easy,Stack
+2024-06-02,Merge Intervals,Medium,Intervals
+2024-06-03,Best Time to Buy and Sell Stock,Easy,Greedy
+2024-06-03,Group Anagrams,Medium,Hashing
+2024-06-04,Longest Substring Without Repeating Characters,Medium,String
+2024-06-05,Search in Rotated Sorted Array,Medium,Binary Search
+2024-06-06,Median of Two Sorted Arrays,Hard,Binary Search
+2024-06-07,Course Schedule,Medium,Graph
+2024-06-07,Clone Graph,Medium,Graph
+2024-06-08,Word Ladder,Hard,BFS
+2024-06-08,Largest Rectangle in Histogram,Hard,Stack
+2024-06-09,Subsets,Medium,Backtracking
+2024-06-09,Combination Sum,Medium,Backtracking
+2024-06-10,Permutations,Medium,Backtracking
+2024-06-10,Binary Tree Level Order Traversal,Medium,Tree
+2024-06-11,Validate Binary Search Tree,Medium,Tree
+2024-06-11,Lowest Common Ancestor of a BST,Easy,Tree
+2024-06-12,Kth Largest Element in an Array,Medium,Heap
+2024-06-12,Top K Frequent Elements,Medium,Heap
+2024-06-13,Implement Trie (Prefix Tree),Medium,Trie
+2024-06-13,Design Add and Search Words Data Structure,Medium,Trie
+2024-06-14,Find Median from Data Stream,Hard,Heap
+2024-06-14,Sliding Window Maximum,Hard,Deque
+2024-06-15,LFU Cache,Hard,Design
+2024-06-15,LRU Cache,Medium,Design
+2024-06-16,Alien Dictionary,Hard,Graph
+2024-06-16,Number of Islands,Medium,DFS
+2024-06-17,Pacific Atlantic Water Flow,Medium,DFS
+2024-06-17,Maximum Depth of Binary Tree,Easy,Tree
